@@ -1,4 +1,4 @@
-package com.nadiparsa.habittrackerapplication.util
+package com.nadi.firebasehabittrackermvvm.ui.util
 
 data class UserData(
     val userId: String?,

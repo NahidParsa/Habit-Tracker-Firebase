@@ -1,7 +1,6 @@
 package com.nadi.firebasehabittrackermvvm.ui.util
 
 import com.google.firebase.auth.FirebaseAuth
-import com.nadiparsa.habittrackerapplication.util.UserData
 import kotlin.coroutines.cancellation.CancellationException
 
 

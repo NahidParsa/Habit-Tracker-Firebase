@@ -14,6 +14,7 @@ import com.google.firebase.auth.FirebaseUser
 import com.google.firebase.auth.GoogleAuthProvider
 import com.google.firebase.database.FirebaseDatabase
 import com.nadi.firebasehabittrackermvvm.ui.util.ResultTypes
+import com.nadi.firebasehabittrackermvvm.ui.util.UserData
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
